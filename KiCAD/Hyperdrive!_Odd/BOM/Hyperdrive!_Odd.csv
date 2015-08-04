@@ -1,0 +1,58 @@
+ref	value	footprint	Type	Price	Digikey Part No.
+C1	10u	~	Tan		
+C2	1u	~	Ceramic		
+C3	10u	~	Tan		
+C4	1u	~	Ceramic		
+C5	0.1u	~			
+C6	100n	~			
+C7	100n	~			
+C8	100n	~			
+C9	2.2u	~			
+C10	4.7u	~			
+C11	2.2u	~			
+C12	100n	~			
+K1	ES1				
+K2	ES2				
+K3	ES3				
+K4	ES4				
+LCD1	128X64_LCD	~			
+P1	CONN_16				
+P2	H-Bridge PCB				
+P3	Main Processor PCB				
+P4	MR				
+P5	ML				
+P6	CONN_22	~			
+R1	10K	~			
+R2	160	~			
+R3	10K	~			
+R4	160	~			
+R5	10K	~			
+R6	160	~			
+R7	10K	~			
+R8	160	~			
+R9	10K	~			
+R10	10K	~			
+R11	160	~			
+R12	10K	~			
+R13	160	~			
+R14	10K	~			
+R15	10K	~			
+R16	10K	~			
+R17	10K	~			
+R18	10K	~			
+R19	560K	~			
+RV1	50K	~			
+RV2	50K	~			
+SW1	SW_PUSH	~			
+SW2	SW_PUSH	~			
+SW3	SW_PUSH	~			
+SW4	SW_PUSH	~			
+U1	MAX14780				
+U2	QRE1113	~			
+U3	QRE1113	~			
+U4	MAX14780				
+U5	QRE1113	~			
+U6	QRE1113	~			
+U7	MCP6541	~			
+U8	QRE1113	~			
+U9	QRE1113	~			
