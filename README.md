@@ -9,4 +9,6 @@ Open Source Robot Sumo Project
 The project started out on November 28th, 2014 - But under a different name: "Epsilon - The Universal Robot".
 After more work was done, it was changed to "Hyperdrive!", named after my one of my favorite songs from the band
 Guardian. The robot's main function is for Robot sumo, but will also have programs that will allow it to also
-be a line flowing robot, and more. 
+be a line flowing robot, and more.
+
+#### Note: You can find photos of the robot in: Hyperdrive-Robot-Sumo-Project/Images/Robot Photos 
