@@ -1,0 +1,232 @@
+PCBNEW-LibModule-V1  4/24/2015 3:29:12 PM
+# encoding utf-8
+Units mm
+$INDEX
+DP
+$EndINDEX
+$MODULE DP
+Po 0 0 0 15 553AA793 00000000 ~~
+Li DP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3 1 1 0 0.15 N V 21 N "DP"
+T1 -4.3 -3 1 1 0 0.15 N I 21 N "SMD"
+DS 11.4 -4 -10.7 -4 0.15 21
+DS -10.2 0 -10.7 0 0.15 21
+DS -10.7 0 -10.7 -4 0.15 21
+DS 10.9 0 11.4 0 0.15 21
+DS 11.4 0 11.4 -2 0.15 21
+DS 11.4 -2 11.4 -4 0.15 21
+$PAD
+Sh "1" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.8 0
+$EndPAD
+$PAD
+Sh "2" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.1 0
+$EndPAD
+$PAD
+Sh "3" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.4 0
+$EndPAD
+$PAD
+Sh "4" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 0
+$EndPAD
+$PAD
+Sh "5" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "6" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.3 0
+$EndPAD
+$PAD
+Sh "7" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.6 0
+$EndPAD
+$PAD
+Sh "8" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.9 0
+$EndPAD
+$PAD
+Sh "9" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.2 0
+$EndPAD
+$PAD
+Sh "10" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.5 0
+$EndPAD
+$PAD
+Sh "11" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.8 0
+$EndPAD
+$PAD
+Sh "12" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.1 0
+$EndPAD
+$PAD
+Sh "13" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.4 0
+$EndPAD
+$PAD
+Sh "14" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.7 0
+$EndPAD
+$PAD
+Sh "15" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "16" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7 0
+$EndPAD
+$PAD
+Sh "17" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.4 0
+$EndPAD
+$PAD
+Sh "18" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.1 0
+$EndPAD
+$PAD
+Sh "19" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.8 0
+$EndPAD
+$PAD
+Sh "20" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.5 0
+$EndPAD
+$PAD
+Sh "21" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.2 0
+$EndPAD
+$PAD
+Sh "22" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.9 0
+$EndPAD
+$PAD
+Sh "23" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.6 0
+$EndPAD
+$PAD
+Sh "24" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.3 0
+$EndPAD
+$PAD
+Sh "25" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "26" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 0
+$EndPAD
+$PAD
+Sh "27" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.4 0
+$EndPAD
+$PAD
+Sh "28" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.1 0
+$EndPAD
+$PAD
+Sh "29" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.8 0
+$EndPAD
+$PAD
+Sh "30" R 0.4 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.5 0
+$EndPAD
+$EndMODULE DP
+$EndLIBRARY
