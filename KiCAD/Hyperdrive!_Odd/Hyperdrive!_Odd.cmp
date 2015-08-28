@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 7/15/2015 4:24:05 PM
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 8/25/2015 6:28:39 PM
 
 BeginCmp
 TimeStamp = /55A67C10;
@@ -67,35 +67,35 @@ BeginCmp
 TimeStamp = /559F096C;
 Reference = C8;
 ValeurCmp = 100n;
-IdModule  = ;
+IdModule  = c_0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /559F0972;
 Reference = C9;
 ValeurCmp = 2.2u;
-IdModule  = ;
+IdModule  = c_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /559EF501;
 Reference = C10;
 ValeurCmp = 4.7u;
-IdModule  = ;
+IdModule  = c_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /559EF4FB;
 Reference = C11;
 ValeurCmp = 2.2u;
-IdModule  = ;
+IdModule  = c_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /559EF4EE;
 Reference = C12;
 ValeurCmp = 100n;
-IdModule  = ;
+IdModule  = c_0603;
 EndCmp
 
 BeginCmp
@@ -144,7 +144,7 @@ BeginCmp
 TimeStamp = /559EDEF4;
 Reference = LCD1;
 ValeurCmp = 128X64_LCD;
-IdModule  = ;
+IdModule  = DP;
 EndCmp
 
 BeginCmp
@@ -186,7 +186,7 @@ BeginCmp
 TimeStamp = /559EDF4C;
 Reference = P6;
 ValeurCmp = Display PCB;
-IdModule  = ;
+IdModule  = CON_11x2;
 EndCmp
 
 BeginCmp
@@ -298,35 +298,35 @@ BeginCmp
 TimeStamp = /559F1293;
 Reference = R15;
 ValeurCmp = 10K;
-IdModule  = ;
+IdModule  = r_0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /559F128D;
 Reference = R16;
 ValeurCmp = 10K;
-IdModule  = ;
+IdModule  = r_0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /559F1287;
 Reference = R17;
 ValeurCmp = 10K;
-IdModule  = ;
+IdModule  = r_0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /559F1281;
 Reference = R18;
 ValeurCmp = 10K;
-IdModule  = ;
+IdModule  = r_0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /559EF509;
 Reference = R19;
 ValeurCmp = 560K;
-IdModule  = ;
+IdModule  = r_0603;
 EndCmp
 
 BeginCmp
@@ -361,28 +361,28 @@ BeginCmp
 TimeStamp = /559F12A5;
 Reference = SW1;
 ValeurCmp = SW_PUSH;
-IdModule  = ;
+IdModule  = TL3342;
 EndCmp
 
 BeginCmp
 TimeStamp = /559F129F;
 Reference = SW2;
 ValeurCmp = SW_PUSH;
-IdModule  = ;
+IdModule  = TL3342;
 EndCmp
 
 BeginCmp
 TimeStamp = /559F1299;
 Reference = SW3;
 ValeurCmp = SW_PUSH;
-IdModule  = ;
+IdModule  = TL3342;
 EndCmp
 
 BeginCmp
 TimeStamp = /559F1265;
 Reference = SW4;
 ValeurCmp = SW_PUSH;
-IdModule  = ;
+IdModule  = TL3342;
 EndCmp
 
 BeginCmp
